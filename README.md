@@ -9,7 +9,7 @@ A soft, futuristic cyberpunk personal portfolio webpage designed and developed f
 
 ---
 
-## ✨ Features & Visual Style
+## Features & Visual Style
 
 - **Soft Cyber Aesthetics:** Ambient glowing background orbs with smooth floating animations.
 - **Glassmorphism UI:** Translucent dark card layouts with fine glowing borders.
@@ -19,7 +19,7 @@ A soft, futuristic cyberpunk personal portfolio webpage designed and developed f
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 
 ```text
 Professional Webpage/
